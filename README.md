@@ -37,7 +37,7 @@ Organizations often struggle to spot attrition risk early and ensure promotion d
 IBM HR Analytics Employee Attrition & Performance dataset (publicly available sample dataset).
 
 ## How to Use
-1. Download `HR_Attrition_Dashboard.pbix` from this repository.
+1. Download `HR Dashboard.pbix` from this repository.
 2. Open it in **Power BI Desktop** (free download from Microsoft).
 3. Use the navigation panel (Home / Action / Details) to explore each view.
 4. Filters and visuals are fully interactive — click any bar, slice, or donut segment to cross-filter the dashboard.
