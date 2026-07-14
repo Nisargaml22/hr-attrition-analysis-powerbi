@@ -25,13 +25,13 @@ Organizations often struggle to spot attrition risk early and ensure promotion d
 ## Dashboard Preview
 
 ### Home – Overview KPIs
-![Home Overview](screenshots/01_home_overview.png)
+![Home Overview](Screenshots/01_home_overview.png)
 
 ### Employee-Level Detail
-![Employee Details](screenshots/02_employee_details.png)
+![Employee Details](Screenshots/02_employee_details.png)
 
 ### Department & Role Analysis
-![Department Analysis](screenshots/03_department_analysis.png)
+![Department Analysis](Screenshots/03_department_analysis.png)
 
 ## Dataset
 IBM HR Analytics Employee Attrition & Performance dataset (publicly available sample dataset).
